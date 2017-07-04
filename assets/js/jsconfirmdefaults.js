@@ -1,0 +1,3 @@
+jconfirm.defaults = {
+    theme: 'customtheme'
+};

@@ -1,0 +1,12 @@
+/*
+* Master style
+* Import SASS in parts
+*/
+
+/* Preconfig */
+@import 'parts/vars';
+@import 'parts/font';
+@import 'parts/confirm';
+
+@import 'parts/general';
+@import 'parts/loading';
